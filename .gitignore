@@ -1,7 +1,5 @@
-# output
+# Output excel file
 Daily_Report_Complete.xlsx
-MRTG_Report.docx
-MRTG-Data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

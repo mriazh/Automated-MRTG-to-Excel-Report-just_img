@@ -10,7 +10,7 @@ import io
 FOLDER_DATA = "MRTG-Data"
 TEMPLATE_FILE = "MENTAHAN FORMAT DAILY MRTG.xlsx"
 OUTPUT_FILE = "Daily_Report_Complete.xlsx"
-DAFTAR_FILE = "list_mrtg_data_to_docx.txt"
+DAFTAR_FILE = "list_mrtg_data.txt"
 MAPPING_FILE = "sid_image-position-excel.txt"  # file mapping area
 
 # ========== BACA MAPPING AREA ==========
