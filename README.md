@@ -1,4 +1,4 @@
-# 🖼️ Automated MRTG Image to Excel Report (Image Only)
+# 🖼️ Automated MRTG to Excel Report (Image Only)
 
 **Script otomatis yang difokuskan pada penempatan gambar MRTG secara presisi ke dalam *template* laporan Excel bulanan tanpa proses OCR.**
 
